@@ -4,6 +4,8 @@
  * SPDX-License-Identifier: BSD-3-Clause
  */
 
+/* _very_ slightly modified by myself as my first attempt at coding on the RP2040 */
+
 #include "pico/stdlib.h"
 
 int main() {
